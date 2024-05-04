@@ -17,7 +17,7 @@ take Logistic Regression and Linear Least Squares as examples
 ### Grad and Hessian's calculation
 
 - Linear Least Squares
-  - values: $f(x):=\sum_{i=1}^{N} \| a_{i}^{T} x-b_{i} \|_{2}^{2}= \| A x-b \|_{2}^{2} $
+  - values: $f(x):=\sum_{i=1}^{N} \| a_{i}^{T} x-b_{i} \|_{2}^{2}= \| A x-b \|_{2}^{2}$
   - gradient: $\nabla f(x)=2 A^{T}(A x-b)$
   - Hessin: $H=2 A^{T} A$
 
